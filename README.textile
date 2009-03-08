@@ -1,0 +1,24 @@
+h1. MD Hide Smileys
+
+Hide Smileys under every Textarea in the EE Control Panel.
+
+I made this simply to hide the "Smileys" link underneath each textarea on a Control Panel publish page. You can disable Emoticons in the admin, but I don’t think there is any native way to hide this link without an extension. 
+
+h2. Info
+
+Developed by Ryan Masuga, http://masugadesign.com
+
+Docs: "MD Hide Smileys":http://www.masugadesign.com/the-lab/scripts/hide-smileys/ <br />
+General EE Extension Info: http://expressionengine.com/docs/development/extensions.html
+
+ExpressionEngine forum Thread: "Extension: Hide Smileys Link in Control Panel":http://expressionengine.com/forums/viewthread/56203/
+
+h2. Changelog
+
+*1.0.1 (Mar 8, 2009)*
+
+* Changed name to MD Hide Smileys
+
+1.0.0 (Jul 11, 2007)
+
+* Initial release
