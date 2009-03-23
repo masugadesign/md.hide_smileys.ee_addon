@@ -2,7 +2,7 @@
 
 /* ===========================================================================
 ext.md_hide_smileys.php ---------------------------
-Hide the smileys link(s) on the publish page.
+Hide the smileys link(s) on the publish page in the ExpressionEngine control panel.
             
 INFO ---------------------------
 Developed by: Ryan Masuga, masugadesign.com
